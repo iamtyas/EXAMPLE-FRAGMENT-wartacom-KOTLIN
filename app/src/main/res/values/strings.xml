@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wartawarta</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Gallery</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="judul_berita">Judul Berita</string>
+    <string name="summary">Ringkasan</string>
+    <string name="src">Source</string>
+    <string name="title_updates">Updates</string>
+</resources>
